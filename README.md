@@ -8,23 +8,23 @@ Third Mini Project(Object Detection)
 ---
 
 ## 프로젝트 개요
+
 ### 1. 주제 및 선정 배경
 + 선정 배경 : 출국시간을 단축하면서 저장매체를 따로 빼줘야 하는 불편함이 해소되는 방안 고려
 + 주제 : X-Ray 이미지를 활용한 위해물품 검출
 <br>
-<br>
+
 ### 2. 진행 방향
 + YOLO V3, V4, V5, V6, V7 등 여러 모델을 활용해 Best mAP 모델 구축
 <br>
-<br>
+
 ### 3. 개발 환경
 + Google Colab Pro + (Yolo V3, V4, V6)
 + Anaconda + Pytorch + VScode(Yolo V5, V7)
 <br>
-<br>
+
 ### 4. 기대 효과
 + Object Detection Model의 Security Chect Task 자동화 (출국시간 단출 + 불편 해소)
-<br>
 <br>
 
 
